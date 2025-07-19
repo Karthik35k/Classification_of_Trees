@@ -71,5 +71,6 @@ Each subplot is labeled with the corresponding class name to make it easy to und
 ## ✍️ Author
 
 **TIRUMALASETTI VENKATA KARTHIK**
-Bachelor of Computer Applications (BCA) Student
-Passionate about AI, Computer Vision, and Real-world ML Applications.
+
+Bachelor of Technology (B-Tech) Student
+Passionate about AI and Real-world ML Applications.
