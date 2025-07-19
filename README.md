@@ -72,6 +72,5 @@ Each subplot is labeled with the corresponding class name to make it easy to und
 
 **TIRUMALASETTI VENKATA KARTHIK**
 
-Bachelor of Technology (B-Tech) Student
-
-Passionate about AI and Real-world ML Applications.
+Bachelor of Technology (B-Tech) Student,
+ Passionate about AI and Real-world ML Applications.
