@@ -1,4 +1,4 @@
-# 🌳 Classification of Trees – Week 1 Report
+# 🌳 Classification of Trees – Report
 
 Welcome to the first week of the **Tree Species Classification** project! This repository presents the initial exploration and analysis of a tree image dataset aimed at developing an AI-powered classifier that can accurately identify various tree species based on images.
 
